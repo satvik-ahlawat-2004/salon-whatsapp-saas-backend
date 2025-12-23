@@ -1,0 +1,7 @@
+{
+  "name": "ZenSalon Pro - Management Dashboard",
+  "description": "A comprehensive salon management platform featuring real-time booking, staff scheduling, customer profiles, and business analytics with a focus on ease of use for Indian salon owners.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

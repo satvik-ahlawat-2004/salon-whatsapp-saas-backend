@@ -1,0 +1,34 @@
+node_modules
+.env
+.env.*
+dist
+build
+coverage
+.turbo
+.next
+.cache
+tmp
+temp
+*.log
+*.pid
+*.seed
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Prisma
+prisma/generated/
+prisma/migrations/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS / IDE
+.DS_Store
+.vscode
+.idea
+.history
+node_modules
